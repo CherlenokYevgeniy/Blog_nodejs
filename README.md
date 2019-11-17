@@ -1,5 +1,6 @@
 # CoolBlog
-Simple blog on Node.js &amp; Express.js
+Simple blog on Node.js &amp; Express.js just with methods GET, POST, DELETE 
+
 
 Some files to install:
 
@@ -10,3 +11,9 @@ Images below(1-Main page, 2-Create new post)
 ![image](https://github.com/CherlenokYevgeniy/CoolBlog/raw/master/img/1.png)
 
 ![image](https://github.com/CherlenokYevgeniy/CoolBlog/raw/master/img/2.png)
+
+
+
+My MongoDB
+
+![image](https://github.com/CherlenokYevgeniy/CoolBlog/raw/master/img/3.png)
