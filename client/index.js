@@ -2,7 +2,7 @@ const card = post => {
     return `
     <div class="card z-depth-4">
         <div class="card-content">
-            <span class="card-title">${post.title}</span>
+            <span class="card-title blue-text text-darken-2">${post.title}</span>
             <p style="white-space: pre-line">${post.text}</p>
             <small>${new Date(post.date).toLocaleDateString()}</small>
         </div>
