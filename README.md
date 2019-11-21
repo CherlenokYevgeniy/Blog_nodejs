@@ -1,8 +1,8 @@
-# CoolBlog
+# Blog
 
 <hr>
 
-Simple blog on Node.js &amp; Express.js just with methods GET, POST, DELETE 
+Simple blog on Node.js &amp; Express.js without admin panel
 
 **1)Main page**
 <p align="center">
