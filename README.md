@@ -1,8 +1,8 @@
 # Blog
 
-<hr>
-
 Simple blog on Node.js &amp; Express.js without admin panel
+
+<hr>
 
 **1)Main page**
 <p align="center">
