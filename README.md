@@ -1,19 +1,29 @@
 # CoolBlog
+
+<hr>
+
 Simple blog on Node.js &amp; Express.js just with methods GET, POST, DELETE 
 
+**1)Main page**
+<p align="center">
+    <img width="300px" src="img/1.png">
+</p>
 
-Some files to install:
+**2)Create new post**
+<p align="center">
+    <img width="300px" src="img/2.png">
+</p>
 
-nmp install express, npm install nodemon -D, npm install mongoose, npm install body-parser
+**3)My MongoDB**
+<p align="center">
+    <img width="100%" src="img/3.png">
+</p>
 
-Images below(1-Main page, 2-Create new post)
+## Files to install:
 
-![image](https://github.com/CherlenokYevgeniy/CoolBlog/raw/master/img/1.png)
+1. nmp install express
+2. npm install nodemon -D
+3. npm install mongoose
+4. npm install body-parser
 
-![image](https://github.com/CherlenokYevgeniy/CoolBlog/raw/master/img/2.png)
 
-
-
-My MongoDB
-
-![image](https://github.com/CherlenokYevgeniy/CoolBlog/raw/master/img/3.png)
