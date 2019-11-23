@@ -20,10 +20,10 @@ Simple blog on Node.js &amp; Express.js without admin panel
 </p>
 
 ## Files to install:
-
+```
 1. nmp install express
 2. npm install nodemon -D
 3. npm install mongoose
 4. npm install body-parser
-
+```
 
